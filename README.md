@@ -21,4 +21,4 @@ Final-year Computational Social Science student (University of Amsterdam) specia
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
 ## GitHub Stats:
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=12417100830158&layout=compact&theme=dark)
