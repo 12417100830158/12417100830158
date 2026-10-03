@@ -1,6 +1,6 @@
 ## About Me:
 
-Final-year Computational Social Science student (University of Amsterdam) specialising in applying data science to complex social and environmental challenges
+Final-year Computational Social Science student (University of Amsterdam).
 
 ## Socials:
 
